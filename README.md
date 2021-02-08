@@ -1,7 +1,7 @@
 # Design Challenge 1
 # Dongjian Wu 
 # Team 6
-Welcome to my online portfolio for IASC 2P02
+Welcome to my online portfolio for IASC 2P02!
 ## Interactive Study Guide
 Explore my interactive study guide [here](2P02T6IASG.html).
 ## Interactive Genealogy
