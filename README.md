@@ -7,7 +7,7 @@ Explore my interactive study guide [here](2P02T6IASG.html).
 ## Interactive Genealogy
 This part is under construction.
 ## Speculative Fiction
-# Mphone, the cellphone that can play music. 
+# Mphone, the cellphone that can play high quality music. 
 Today is Dec 18, 1995, and the current time in New York City is 5:00 A.M.  Why do so many people stand in line at a cellphone store? I am still confused about it. Yesterday, BO$$ Jay told me to line up here today. BO$$ Jay is his artist; he is a rapper and has a lot of FKAs, like $ick Ruffian, Eliminator, etc. By the way, I am a music producer, and all of his beats are produced by me. Anyway, his real name is Jay Carter. He always asks his friends to call his artist name, but everyone just calls him Jay. Where is Jay? He told me to come here but where he is. 
 "Yo, Joey. You came here pretty early," Jay calls my name while I am thinking about where he is.
 "Yup, I came here at 4:00 A.M as you told, and You came here at almost 5:30 A.M."
