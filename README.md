@@ -1,13 +1,21 @@
 # Design Challenge 1
 # Dongjian Wu 
 # Team 6
+
 Welcome to my online portfolio for IASC 2P02!
+
 ## Interactive Study Guide
+
 Explore my interactive study guide [here](2P02T6IASG.html).
+
 ## Interactive Genealogy
+
 This part is under construction.
+
 ## Speculative Fiction
-# Mphone, the cellphone that can play high quality music. 
+
+### Mphone, the cellphone that can play high quality music. 
+
 Today is Dec 18, 1995, and the current time in New York City is 5:00 A.M.  Why do so many people stand in line at a cellphone store? I am still confused about it. Yesterday, BO$$ Jay told me to line up here today. BO$$ Jay is his artist; he is a rapper and has a lot of FKAs, like $ick Ruffian, Eliminator, etc. By the way, I am a music producer, and all of his beats are produced by me. Anyway, his real name is Jay Carter. He always asks his friends to call his artist name, but everyone just calls him Jay. Where is Jay? He told me to come here but where he is. 
 "Yo, Joey. You came here pretty early," Jay calls my name while I am thinking about where he is.
 "Yup, I came here at 4:00 A.M as you told, and You came here at almost 5:30 A.M."
@@ -30,3 +38,7 @@ One week later...
 
 Today is Dec 25, one week after I bought an MPhone. The shape of this MPhone looks similar to my previous Nokia cellphone. Both of them are rectangular-shaped and have a similar size to my palm. There are more buttons on the front of my MPhone than Nokia. They all have the basic controls. However, MPhone has adittional buttons for its music player function. Jay is a liar, but last time he didn't lie to me. I have never brought my MP3 out of my room since the day I got the MPhone.  MPhone has a better chip that provides better sound quality than MP3. Although MP3 was invented last year, MPhone has already been replaced. On the street, most people are using their MPhone to listen to music. To download music on MPhone, you have to send mails to music companies. In the text,  you have to type "download + special codes" to download specific tracks. Downloading a three-minute track takes approximately five minutes because it takes a couple of minutes for music companies to respond to your message. However, downloading multiple tracks at the same time will be faster. For instance, it takes only thirty-five minutes to download ten tracks in a total of thirty minutes long. After you downloaded music, you can manage them in the music player function. While downloading music on MPhone is really complicated, but it could not stop people's passion. Oh, by the way, many people are still using MP3 right now. Why? Some of them believe that MPhone is not something new. In their opinion, MPhone is just a mixture of MP3 and cellphone. Therefore, they don't think it is necessary to get an MPhone. Besides, some of them don't have an MPhone because it is sold out. They have to wait for months to get an MPhone.
 Anyways, I do agree with some people that MPhone is not a very novel thing. It is just a combination of MP3 and cellphone with a better chip. However, this sort of combination really has a big impact on our daily lives. We don't need to bring both MP3 and a cellphone when we want to enjoy some music outside. With the rapid technology development, maybe in one day, MPhone will become a portable cinema. Who knows? 
+
+## Micro Essay
+
+In my speculative fiction, "Mphone, the cellphone that can play high-quality music" actually used the mobile cellphone that could play high-quality music. The idea of playing music on a mobile phone was introduced in 2001. However, in that period, mobile music sounds very lo-fi.  The idea of the MPhone could be found after 2007. In my fiction, the protagonist is Joey. Instead of talking about the cultural influences in a third-person view, I chose to use the first-person view from Joey, a boy who lives in that certain culture. The story is supported by the quotation: "They are continuously remediated, resurfacing, finding new uses, contexts, adaptations." In my story, it mentions many times that MPhone is a mix of MP3 player and cellphone to imply the idea of MPhone is not really novel. This sort of combination shows how media are remediated. Also, at the very end of this story, Joey thinks maybe in one day that cellphones can be compatible with a video player. This also indicates that new media sometimes are just old media reincarnated in a new form. Besides, high-quality music is also a key for this story. People have been chasing a high-quality music experience since mid-century. Their pursuit is never satisfied. However, no matter their quality, they are the same medium, sound. As the quotation says, old media are continuously finding new contexts. Although their original form is just sound, quality-wise, people are still chasing a better one.
